@@ -17,4 +17,4 @@ jobs:
         server: 107.180.51.87
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }} 
-        server-dir: /public_html/git-actions/
+        server-dir: /public_html/git.goldrushenergy.com/
